@@ -9,3 +9,5 @@ To do:
 - Input file redirection
 - Output file redirection
 - Piping between programs 
+- Custom object for built-in commands
+  - More built-ins
